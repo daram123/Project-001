@@ -1,8 +1,8 @@
 # Ruby
-a = 2
+a = 3
 
 if a%2 == 0
- puts "Even number"
+ puts "#{a} is even number"
   else
-    puts "Odd number"
+ puts "#{a} is odd number"
 end
